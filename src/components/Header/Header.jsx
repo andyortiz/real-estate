@@ -8,8 +8,8 @@ const Header = () => {
             <img src="./logo.png" alt="logo" width={100}/>
             
             <div className="flexCenter h-menu"> 
-                <a href="">Recidencias</a>
-                <a href="">Sobre Nosotros</a>
+                <a href="">Propiedades</a>
+                <a href="">Quienes Somos</a>
                 <button className='button'>
                     <a href="">Contactanos</a>
                 </button>
